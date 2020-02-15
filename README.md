@@ -2,9 +2,10 @@
 Desktop visualizers and other tools. These skins are currently configured for a triple-monitor or dual-monitor setup.
 
 This setup includes:
-(Left) 55-inch 4k TV
-(Main monitor) 24-inch 1440p monitor
-(Right) 24-inch 1080p monitor
+
+- (Left) 55-inch 4k TV
+- (Main monitor) 24-inch 1440p monitor
+- (Right) 24-inch 1080p monitor
 
 All skins are only on the left TV and main monitor. Music visualization skins are on the TV and productivity skins are on the main monitor.
 
